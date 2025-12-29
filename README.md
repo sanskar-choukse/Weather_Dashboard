@@ -49,3 +49,7 @@ Demonstrates API integration and data visualization expertise
 📷 Dashboard Preview
 
 Example Like - https://github.com/sanskar-choukse/Weather_Dashboard/blob/main/Snapshot%20of%20the%20WeatherDashboard.png
+## 📷 Dashboard Preview
+
+![Weather Analytics Dashboard](https://raw.githubusercontent.com/sanskar-choukse/Weather_Dashboard/main/Snapshot%20of%20the%20WeatherDashboard.png)
+
